@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VinceBottom
-- 👀 I’m a researcher interested in web development and creative data visualization
+- 👀 I’m a market researcher interested in web development and creative data visualization
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: on LinkedIn at: https://www.linkedin.com/in/vince-bottom/
