@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VinceBottom
-- 👀 I’m a market researcher interested in web development and UI design
+- 👀 I’m a graduate student in User-Centered Design interested in Python, web development, and UI design
 - 📫 How to reach me: on LinkedIn at: https://www.linkedin.com/in/vince-bottom/
